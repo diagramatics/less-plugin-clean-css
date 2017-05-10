@@ -20,7 +20,7 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "clean-css": "^3.0.1"
+    "clean-css": "3.4.25"
   },
   "keywords": [
     "less plugins",
